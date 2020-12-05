@@ -1,0 +1,5 @@
+第一课 — 神经网络与深度学习：https://www.bilibili.com/video/av66314465
+第二课 — 改善深层神经网络：超参数调试、正则化以及优化：https://www.bilibili.com/video/av66524657
+第三课 — 结构化机器学习项目：https://www.bilibili.com/video/av66644404
+第四课 — 卷积神经网络：https://www.bilibili.com/video/av66646276
+第五课 — 序列模型：https://www.bilibili.com/video/av66647398
